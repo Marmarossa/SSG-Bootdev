@@ -10,7 +10,7 @@ dir_path_docs = "./docs"
 dir_path_content = "./content"
 template_path = "./template.html"
 
-basepath = sys.argv[0] if len(sys.argv) > 0 else '/'
+basepath = sys.argv[1] if len(sys.argv) > 1 else '/'
 
 
 def main():
