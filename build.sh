@@ -1,1 +1,1 @@
-python3 src/main.py "SSG-Bootdev/" "SSG-Bootdev"
+python3 src/main.py "/SSG-Bootdev/" "SSG-Bootdev"
